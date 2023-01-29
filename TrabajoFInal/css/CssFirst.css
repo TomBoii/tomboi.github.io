@@ -1,0 +1,19 @@
+*{
+
+    color: white;
+
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(131, 182, 107);
+}
+
+.center{
+    text-align: center;
+}
+
+#botonsobremi{
+    color:black;
+}
+
