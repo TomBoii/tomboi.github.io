@@ -1,29 +1,39 @@
-*{
 
-    color: white;
-
-
-}
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(131, 182, 107);
+    background-color: rgb(255, 148, 214);
 }
 
 .center{
     text-align: center;
 }
 
+fieldset{
+    width: fit-content;
+    margin: auto;
+    border: solid 3px rgb(255, 255, 255); 
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-1baac4a81961ceb8f8b4766c4bbfc30b);
+
+}
+
 ul {
+
     display: table; 
     margin: 0 auto;
     text-align: left;
 }
 
-.centerList {
-    display: inline-block;
-    text-align: left;
-  }
 #botonsobremi{
     color:black;
 }
 
+#textosobremi{
+    border: solid 3px rgb(255, 255, 255); 
+}
+
+*{
+
+    color: rgb(255, 255, 255);
+
+
+}
